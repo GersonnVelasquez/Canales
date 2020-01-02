@@ -1,19 +1,36 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-logo="vWyTg5L.png" group-title="Canales Hondureños", Teleceiba Canal 7 | SD 
+#EXTINF:-1, tvg-logo="vWyTg5L.png" group-title="HONDURAS", Teleceiba Canal 7 
 http://190.11.224.14:8134/liveevent.m3u8
 
-#EXTINF:-1, tvg-logo="VkhYiMT.png" group-title="Canales Hondureños", TV Azteca Honduras | SD 
+#EXTINF:-1, tvg-logo="VkhYiMT.png" group-title="HONDURAS", TV Azteca Honduras 
 http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
 
-#EXTINF:-1, tvg-logo="TgSeikY.png" group-title="Canales Hondureños", TEN Honduras | HD 
+#EXTINF:-1, tvg-logo="TgSeikY.png" group-title="HONDURAS", TEN Honduras 
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
 
-#EXTINF:-1, tvg-logo="pEysKIg.png" group-title="Canales Hondureños", Canal 5 | SD 
+#EXTINF:-1, tvg-logo="pEysKIg.png" group-title="HONDURAS", Canal 5 
 https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
 
-#EXTINF:-1, tvg-logo="IEn5EY9.png" group-title="Canales Hondureños", TSi | SD 
+#EXTINF:-1, tvg-logo="IEn5EY9.png" group-title="HONDURAS", TSi 
 https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
 
-#EXTINF:-1, tvg-logo="Z6HnayB.png" group-title="Canales Hondureños", Campus TV | FHD
+#EXTINF:-1, tvg-logo="Z6HnayB.png" group-title="HONDURAS", Campus TV 
 http://st2.worldkast.com/8004/8004/master.m3u8
+
+#EXTINF:0 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/activatvhonduras.png" group-title="HONDURAS",Activa TV
+http://200.58.160.67:8081/envivo/activatv/playlist.m3u8
+
+
+#EXTINF:-1,DISNEY XD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/761.m3u8
+
+#EXTINF:-1,DISNEY CHANNEL (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/762.m3u8
+
+
+#EXTINF:-1,FOX LIFE HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/786.m3u8
+
+#EXTINF:-1,FOX HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/787.m3u8
