@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1, tvg-logo="vWyTg5L.png" group-title="Canales Hondureños", Teleceiba Canal 7 | SD 
+http://190.11.224.14:8134/liveevent.m3u8
+
+#EXTINF:-1, tvg-logo="VkhYiMT.png" group-title="Canales Hondureños", TV Azteca Honduras | SD 
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
+
+#EXTINF:-1, tvg-logo="TgSeikY.png" group-title="Canales Hondureños", TEN Honduras | HD 
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+
+#EXTINF:-1, tvg-logo="pEysKIg.png" group-title="Canales Hondureños", Canal 5 | SD 
+https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
+
+#EXTINF:-1, tvg-logo="IEn5EY9.png" group-title="Canales Hondureños", TSi | SD 
+https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
+
+#EXTINF:-1, tvg-logo="Z6HnayB.png" group-title="Canales Hondureños", Campus TV | FHD
+http://st2.worldkast.com/8004/8004/master.m3u8
