@@ -21,6 +21,9 @@ http://st2.worldkast.com/8004/8004/master.m3u8
 #EXTINF:0 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/activatvhonduras.png" group-title="HONDURAS",Activa TV
 http://200.58.160.67:8081/envivo/activatv/playlist.m3u8
 
+#EXTINF:-1, tvg-logo="Z6HnayB.png" group-title="HONDURAS", HCH
+http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8
+
 
 #EXTINF:-1,DISNEY XD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/761.m3u8
